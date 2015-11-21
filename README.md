@@ -319,7 +319,7 @@ Run the project. You should now see the robot with its new image apply to it.
 ![Textures in iOS devices](https://dl.dropboxusercontent.com/u/107789379/CGDemy/blogimages/textureiniOSDevice.png)
 
 ###Credits
-[Harold Serrano](www.haroldserrano.com) Author of this repository and post
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
 
 ###Questions
 If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
