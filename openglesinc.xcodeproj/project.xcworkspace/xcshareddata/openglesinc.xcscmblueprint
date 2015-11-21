@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6DDF661BF56CA1E5C7DDE5417A56F3D58A15DC70",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6DDF661BF56CA1E5C7DDE5417A56F3D58A15DC70" : 0,
+    "0BC5FACFE437E86734B970307010A9ED23CC133F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BDEB2BF0-8CAF-4BA1-97D7-DA951FD07574",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6DDF661BF56CA1E5C7DDE5417A56F3D58A15DC70" : "applyingTexturesInOpenGL\/",
+    "0BC5FACFE437E86734B970307010A9ED23CC133F" : "Rendering-Texture-in-OpenGL-ES"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "openglesinc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "openglesinc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/roldie\/Rendering-Texture-in-OpenGL-ES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0BC5FACFE437E86734B970307010A9ED23CC133F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haroldserrano\/applyingTexturesInOpenGL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DDF661BF56CA1E5C7DDE5417A56F3D58A15DC70"
+    }
+  ]
+}
