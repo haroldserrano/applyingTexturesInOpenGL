@@ -319,4 +319,4 @@ Run the project. You should now see the robot with its new image apply to it.
 ![Textures in iOS devices](https://dl.dropboxusercontent.com/u/107789379/CGDemy/blogimages/textureiniOSDevice.png)
 
 ###Questions?
-If you are interested in knowing more about this post, please visit http://www.haroldserrano.com/blog/how-to-apply-textures-to-a-character-in-ios Feel free to contact me with any questions.
+If you are interested in knowing more about this post, please visit http://www.haroldserrano.com/blog/how-to-apply-textures-to-a-character-in-ios. Feel free to contact me with any questions.
