@@ -318,5 +318,8 @@ Run the project. You should now see the robot with its new image apply to it.
 #####Figure 4. A 3D model with texture on a iOS device
 ![Textures in iOS devices](https://dl.dropboxusercontent.com/u/107789379/CGDemy/blogimages/textureiniOSDevice.png)
 
-###Questions?
-If you are interested in knowing more about this post, please visit http://www.haroldserrano.com/blog/how-to-apply-textures-to-a-character-in-ios. Feel free to contact me with any questions.
+###Credits
+[Harold Serrano](www.haroldserrano.com) Author of this repository and post
+
+###Questions
+If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
